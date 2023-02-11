@@ -5,9 +5,9 @@ Infectious disease surveillance is the action of monitoring the health status of
 This workshop provided an overview of the current state in the field of infectious disease surveillance, from the perspective of both data collection and data analysis.
 
 ## Information
-Date:	25 November 2019
-Location: Seminar room 320, University Bern, Mittelstrasse 43, 3012 Bern
-Organizer: [Institute of Social and Preventive Medicine](https://www.ispm.unibe.ch), University of Bern
+* Date:	25 November 2019
+* Location: Seminar room 320, University Bern, Mittelstrasse 43, 3012 Bern
+* Organizer: [Institute of Social and Preventive Medicine](https://www.ispm.unibe.ch), University of Bern
 
 ## Program
 Time | Event/Speaker | Title
