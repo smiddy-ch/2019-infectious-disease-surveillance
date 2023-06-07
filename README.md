@@ -15,7 +15,7 @@ This workshop provided an overview of the current state in the field of infectio
 Time | Event/Speaker | Title
 --- | --- | ---
 09:00	| **Welcome and introduction** | -
-09:10 |	**Dr. Ekkehardt Altpeter** (Swiss Federal Office of Public Health, Bern) | The Swiss infectious diseases surveillance systems]
+09:10 |	**Dr. Ekkehardt Altpeter** (Swiss Federal Office of Public Health, Bern) | The Swiss infectious diseases surveillance systems
 09:50	| **Dr. Yolanda Müller Chabloz** (Centre universitaire de médicine générale et santé publique, Lausanne) | [Sentinel surveillance in the digital era: why bother?](slides/IDS_2019_Mueller.pdf)
 10:30	| **Coffee break** | -
 11:00	| **Kelly Reeve, M.Sc.** (Epidemiology, Biostatistics and Prevention Institute, Zurich) | Automated spatio-temporal outbreak detection: lessons from application to Swiss surveillance data
