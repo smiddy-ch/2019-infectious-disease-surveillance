@@ -5,19 +5,21 @@ Infectious disease surveillance is the action of monitoring the health status of
 This workshop provided an overview of the current state in the field of infectious disease surveillance, from the perspective of both data collection and data analysis.
 
 ## Information
+
 * Date:	25 November 2019
 * Location: Seminar room 320, University Bern, Mittelstrasse 43, 3012 Bern
-* Organizer: [Institute of Social and Preventive Medicine](https://www.ispm.unibe.ch), University of Bern
+* Organization: Julien Riou & Christian Althaus, [Institute of Social and Preventive Medicine](https://www.ispm.unibe.ch), University of Bern
 
 ## Program
+
 Time | Event/Speaker | Title
 --- | --- | ---
 09:00	| **Welcome and introduction** | -
-09:10 |	**Dr. Ekkehardt Altpeter** (Swiss Federal Office of Public Health, Bern) | [The Swiss infectious diseases surveillance systems](slides/IDS_2019_Altpeter.pdf)
+09:10 |	**Dr. Ekkehardt Altpeter** (Swiss Federal Office of Public Health, Bern) | The Swiss infectious diseases surveillance systems]
 09:50	| **Dr. Yolanda Müller Chabloz** (Centre universitaire de médicine générale et santé publique, Lausanne) | [Sentinel surveillance in the digital era: why bother?](slides/IDS_2019_Mueller.pdf)
 10:30	| **Coffee break** | -
-11:00	| **Kelly Reeve, M.Sc.** (Epidemiology, Biostatistics and Prevention Institute, Zurich) | [Automated spatio-temporal outbreak detection: lessons from application to Swiss surveillance data](slides/IDS_2019_Reeve.pdf)
-11:40	| **Prof. Pierre-Yves Boëlle** (Inserm/Sorbonne Université, Paris, France) | [Disease monitoring in general population using GP’s reported cases : progress & challenges](slides/IDS_2019_Boelle.pdf)
+11:00	| **Kelly Reeve, M.Sc.** (Epidemiology, Biostatistics and Prevention Institute, Zurich) | Automated spatio-temporal outbreak detection: lessons from application to Swiss surveillance data
+11:40	| **Prof. Pierre-Yves Boëlle** (Inserm/Sorbonne Université, Paris, France) | Disease monitoring in general population using GP’s reported cases : progress & challenges
 12:20	| **Dr. Stéphane Ghozzi** (Robert Koch Institute, Berlin, Germany) | [Machine-learning approaches to signal detection in infectious-disease epidemiology](slides/IDS_2019_Ghozzi.pdf)
 13:00 |	**Lunch** | -
 14:00 |	**Dr. Emma Hodcroft** (Biozentrum, Basel) | [Rapid, relatable, and real-time: pathogen tracking with Nextstrain](slides/IDS_2019_Hodcroft.pdf)
@@ -27,10 +29,27 @@ Time | Event/Speaker | Title
 17:00	| **Apéro** | -
 
 ## Pictures
-![](pictures/paolotti.jpg)
+
 ![](pictures/reeve.jpg)
+
+Kelly Reeve on spatio-temporal outbreak detection.
+
 ![](pictures/boelle.jpg)
+
+Pierre-Yves Boëlle on disease monitoring.
+
 ![](pictures/ghozzi.jpg)
+
+Stéphane Ghozzi on machine-learning approaches to signal detection.
+
 ![](pictures/hodcroft.jpg)
+
+Emma Hodcroft on pathogen tracking with Nextstrain.
+
 ![](pictures/paolotti.jpg)
+
+Andrea Paolotti on digital participatory surveillance.
+
 ![](pictures/berezowski.jpg)
+
+John Berezowski on One Health surveillance.
