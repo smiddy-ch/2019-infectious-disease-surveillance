@@ -8,7 +8,7 @@ This workshop provided an overview of the current state in the field of infectio
 
 * Date:	25 November 2019
 * Location: Seminar room 320, University Bern, Mittelstrasse 43, 3012 Bern
-* Organizer: [Institute of Social and Preventive Medicine](https://www.ispm.unibe.ch), University of Bern
+* Organization: Julien Riou & Christian Althaus, [Institute of Social and Preventive Medicine](https://www.ispm.unibe.ch), University of Bern
 
 ## Program
 
